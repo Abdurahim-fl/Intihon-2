@@ -510,3 +510,9 @@ header {
   align-items: center;
   color: #6b6b6b;
 }
+
+.gl span {
+  display: flex;
+  align-items: center;
+  margin-left: 6rem;
+}
